@@ -146,3 +146,5 @@ s
 
 /filmLocator.iml
 !/src/
+src/main/webapp/
+target/
